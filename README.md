@@ -6,7 +6,7 @@
 
 <h3 align="center">Discover, explore, and enjoy your favorite games with GNE!</h3>
 
-https://github.com/MTcong/Gamer-Never-End/blob/main/gne.mp4
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://github.com/MTcong/Gamer-Never-End/blob/main/gne.mp4)
 
 # How to use
 
