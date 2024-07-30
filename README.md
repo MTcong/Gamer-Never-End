@@ -6,7 +6,7 @@
 
 <h3 align="center">Discover, explore, and enjoy your favorite games with GNE!</h3>
 
-[![Watch the video]](https://youtu.be/xLrrduTg5GA)
+[![Watch the video](https://img.youtube.com/vi/xLrrduTg5GA/maxresdefault.jpg)](https://www.youtube.com/watch?v=xLrrduTg5GA)
 
 # How to use
 
