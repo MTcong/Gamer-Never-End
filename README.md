@@ -6,10 +6,7 @@
 
 <h3 align="center">Discover, explore, and enjoy your favorite games with GNE!</h3>
 
-<video width="600" controls>
-  <source src="gne.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/MTcong/Gamer-Never-End/blob/main/gne.mp4
 
 # How to use
 
